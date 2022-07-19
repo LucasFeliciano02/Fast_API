@@ -1,2 +1,2 @@
 # Fast_API
-Criando API com Fast API no python e fazendo requisição
+Criando API com Fast API no pythor, fazendo requisição e enviando parâmetros
