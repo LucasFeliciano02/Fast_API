@@ -9,7 +9,7 @@ import datetime
 
 
 USUARIO = "root"
-SENHA = "0824@LM03"
+SENHA = "SENHA MYSQL"
 HOST = "localhost"
 BANCO = "aulafastapi"
 PORT = "3306"
